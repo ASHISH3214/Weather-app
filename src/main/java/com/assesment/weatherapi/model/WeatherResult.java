@@ -8,6 +8,7 @@ public class WeatherResult {
 	private float high;
 	private float low;
 	private String message;
+	private String date;
 	
 
 }
